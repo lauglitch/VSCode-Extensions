@@ -19,10 +19,10 @@ NOTE: This behavior is subject to the code's intent and should be reviewed by th
 
 Select the Python code you want to indent with the cursor and press 'Ctrl + Alt + I'
 
-### Screenshot
+### Screenshots
 
 ![Code without Auto Indent Paste](images/example1.PNG)
-![Code with Indent Paste](images/example1.PNG)
+![Code with Indent Paste](images/example2.PNG)
 
 ## Requirements
 
