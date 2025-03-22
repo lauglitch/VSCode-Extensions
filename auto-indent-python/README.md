@@ -1,5 +1,7 @@
 # Auto Indent Paste - VSCode Extension
 
+![Code without Auto Indent Paste](images/icon.png)
+
 Auto Indent Paste is a Visual Studio Code extension that automatically adjusts indentation when pasting Python code. This helps maintain consistent formatting and improves code readability.
 
 ## Features
@@ -19,7 +21,8 @@ Select the Python code you want to indent with the cursor and press 'Ctrl + Alt 
 
 ### Screenshot
 
-![Auto Indent Paste in action](images/feature-x.png)
+![Code without Auto Indent Paste](images/example1.PNG)
+![Code with Indent Paste](images/example1.PNG)
 
 ## Requirements
 
@@ -35,7 +38,7 @@ This extension contributes the following settings:
 ## Known Issues
 
 - Might not work correctly with mixed indentation styles (tabs and spaces together).
-- If you encounter any issues, please report them on [GitHub Issues](https://github.com/TU_USUARIO/VSCode-Extensions/issues).
+- If you encounter any issues, please report them on [GitHub Issues](https://github.com/lauglitch/VSCode-Extensions/issues).
 
 ## Release Notes
 
