@@ -50,7 +50,7 @@ This extension contributes the following settings:
 
 ## Author
 
-Created by **Lauglitch**. Visit my website: [lauglitch.com](https://lauglitch.com)
+Created by **Lauglitch**. Visit my website: [lauglitch.com](https://www.lauglitch.com)
 
 ## Following Extension Guidelines
 
