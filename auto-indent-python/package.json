@@ -3,10 +3,11 @@
   "displayName": "Auto Indent Python",
   "description": "Auto indents selected Python code ",
   "publisher": "lauglitch",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "icon": "images/icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lauglitch/auto-indent-python.git"
+    "url": "https://github.com/lauglitch/VSCode-Extensions/tree/main/auto-indent-python"
   },
   "engines": {
     "vscode": "^1.98.0"
